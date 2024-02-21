@@ -32,4 +32,4 @@
 *.app
 
 # Ommit any build-* directories
-./proof_of_concepts/build-*
+/proof_of_concepts/build-*
