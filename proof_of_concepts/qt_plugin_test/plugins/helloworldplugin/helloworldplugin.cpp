@@ -3,6 +3,5 @@
 
 void HelloWorldPlugin::hello()
 {
-    qDebug() << "Hello World from plugin!";
-    qDebug() << "Hi mom!";
+    qDebug() << "Hello World!";
 }
