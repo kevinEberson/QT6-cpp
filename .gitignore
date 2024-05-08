@@ -33,3 +33,6 @@
 
 # Ommit any build-* directories
 /proof_of_concepts/build-*
+
+# Ommit any cmake.users file
+CMakeLists.txt.user
